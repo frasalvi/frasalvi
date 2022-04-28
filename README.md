@@ -3,7 +3,7 @@
 
 * 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne.
 * 🎓 BSc in Physics at University of Bologna (UniBo)
-* 👨‍💻 Focus on Machine Learning, Data Science and Computational Social Science.
+* 👨‍💻 Focus on Machine Learning, Networks, Computational Social Science and Data Science.
 * ✨ Passionate about politics, hiking and board games.
 
 
