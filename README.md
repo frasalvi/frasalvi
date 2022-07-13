@@ -22,6 +22,3 @@
 * (🇮🇹) [`Effetti di congestione per modelli di traffico su rete stradale: uno studio su Bologna`](https://amslaurea.unibo.it/23734/): Improved a traffic simulation on the Emilia-Romagna region using origin-destination data from TIM, extracting Macroscopic Fundamental Diagrams and investigating the effects of hysteresis and heterogeneity.
 
 ![](https://hit.yhype.me/github/profile?user_id=74156537)
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
