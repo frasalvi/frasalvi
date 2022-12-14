@@ -9,10 +9,11 @@
 
 ## 📫 Let's connect!
 
+[![CV](https://img.shields.io/badge/-CV-yellow)](https://github.com/frasalvi/frasalvi/blob/main/CV_Francesco_Salvi.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frasalvi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:salvi.fnc@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/fraslv)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/frasalvi)
-[![CV](https://img.shields.io/badge/-CV-yellow)](https://github.com/frasalvi/frasalvi/blob/main/CV_Francesco_Salvi.pdf)
 
 
 ## 🔨 Projects highlights
