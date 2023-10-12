@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm Francesco Salvi (he/him)
----
 
 * 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne.
 * 🎓 BSc in Physics at University of Bologna (UniBo)
