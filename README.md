@@ -7,9 +7,7 @@
 
 
 ## 📫 Let's connect!
-
-[![CV](https://img.shields.io/badge/-CV-yellow)](https://github.com/frasalvi/frasalvi/blob/main/CV_Francesco_Salvi.pdf)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:salvi.fnc@gmail.com)
+[![Website](https://img.shields.io/badge/%F0%9F%8F%A0%20Website-red)](https://frasalvi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frasalvi/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/fraslv)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/frasalvi)
