@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Francesco Salvi (he/him)
 
-* 🎓 MSc student in Computational Science and Engineering at EPFL, Lausanne.
+* 🎓 MSc in Computational Science and Engineering at EPFL, Lausanne.
 * 🎓 BSc in Physics at University of Bologna (UniBo)
 * 👨‍💻 Focusing on Computational Social Science, Network science, Machine Learning, and Data Science.
 * ✨ Passionate about politics, hiking and board games.
