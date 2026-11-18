@@ -3,7 +3,7 @@
 * 🎓 PhD student in Computer Science at Princeton University.
 * 🎓 MSc in Computational Science and Engineering at EPFL.
 * 🎓 BSc in Physics at University of Bologna (UniBo)
-* 👨‍💻 Focusing on Computational Social Science, Network science, Machine Learning, and Data Science.
+* 👨‍💻 Computational Social Science, Societal Impacts of AI, Human–AI Interaction, AI Evaluations, Persuasion.
 * ✨ Passionate about politics, hiking and board games.
 
 
